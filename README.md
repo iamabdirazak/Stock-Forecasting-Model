@@ -43,11 +43,6 @@ python stock_forecasting.py
 
 This will execute the time series analysis and forecasting steps, and save the trained model as `stock_model.pkl`.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-"""
-
 ## Author
 
 Abdirazak Mubarak
