@@ -1,8 +1,5 @@
-# can you write a README file for this project?
+# Stock Forecasting Model
 
-# Sure! Here's a sample README file for your stock forecasting project:
-
-"""# Stock Forecasting Model
 This project implements a stock forecasting model using time series analysis techniques. The model is built using historical stock price data and aims to predict future stock prices.
 
 ## Steps Involved
